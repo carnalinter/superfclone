@@ -71,5 +71,5 @@ jobs:
         run: chmod 777 fclone
       - name: Running the bot
         run: |
-          python3 telegram_gcloner/telegram_gcloner.py
+          python3 telegram_gcloner\telegram_gcloner.py
 
